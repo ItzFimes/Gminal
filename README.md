@@ -1,5 +1,6 @@
 # Gminal
 ## --Updates!-- (scroll down for the actual readme)
+### 0.0.6 coming soon! Get ready for some _speed_!
 ### Finally added Gminal 0.0.5!
 - Redesigned the UI
 - Added a few new commands
