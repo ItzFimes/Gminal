@@ -19,7 +19,7 @@
 - Git test is more usable now
 - Added more easter eggs
 - Gminal now requires the ctypes module to run!
-- And settings are on their way. Be prepared!
+- **Added settings!**
   
   
 Well, let me introduce you to Gminal.
