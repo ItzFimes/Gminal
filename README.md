@@ -23,3 +23,5 @@ To make a directory you can use `mkdir`.
 _Hey! Pssst._ _**-in a whispering voice-**_ Come closer. I'm going to tell you a little _secret_, but you will need to promise me that you won't tell anyone. If you want to give Gminal Jesus privileges, just say(type) `su` and press enter.  
 
 Well, it seems like my time is running out, so if you excuse me, I'm gonna go! **If you don't know something, don't be afraid to use the `help` command!**
+
+## Looking for older versions and fun easter eggs? Go to the [dev Gminal repo](https://github.com/ItzFimes/Gminal_dev)!
