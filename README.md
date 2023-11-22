@@ -1,6 +1,25 @@
 # Gminal
 ## --Updates!-- (scroll down for the actual readme)
-### A huge update coming soon! Be ready!  
+### Finally added Gminal 0.0.5!
+- Redesigned the UI
+- Added a few new commands
+- Updated the help menu
+- Gminal now doesn't need to use the setup-storage command to delete stuff in directories!
+- Added a bunch of new functions
+- Added a troubleshooting system
+- Loading optimized
+- Fixed Gminal not loading colorama properly
+- Gminal now shows its current version
+- Added the TAH module
+- **Gminal can now run without admin privileges!**
+- Prepared Gminal for NotSoSecure support
+- Fixed a lot of grammar errors
+- Added the startingdir function
+- Added dirchck
+- Git test is more usable now
+- Added more easter eggs
+- Gminal now requires the ctypes module to run!
+- And settings are on their way. Be prepared!
   
   
 Well, let me introduce you to Gminal.
