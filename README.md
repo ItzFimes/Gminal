@@ -1,7 +1,18 @@
 # Gminal
 ## --Updates!-- (scroll down for the actual readme)
-### 0.0.6 coming soon! Get ready for some _speed_!
-### Finally added Gminal 0.0.5!
+### Beta 0.0.6 finally out!
+- Minor bug fixes
+- Optimized dirchck
+- Optimized startingdir
+- Removed a lot of unnecessary imports
+- Removed a lot of time.sleeps
+- Optimized basically every function
+- Logo drawing is a lot faster
+- Fixed an issue where Gminal randomly started running Fore.RESET commands
+- Removed some unnecessary code
+
+  
+### Gminal 0.0.5!
 - Redesigned the UI
 - Added a few new commands
 - Updated the help menu
