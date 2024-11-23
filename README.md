@@ -1,4 +1,5 @@
 # Gminal
+## source code and core 2.0 available rn at [Gminal dev repo](https://github.com/ItzFimes/Gminal_dev)
 ## --Updates!-- (scroll down for the actual readme)
 ### Beta 0.0.6 finally out!
 - Minor bug fixes
