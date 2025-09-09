@@ -1,6 +1,7 @@
 # Gminal
 ## source code and core 2.0 available rn at [Gminal dev repo](https://github.com/ItzFimes/Gminal_dev)
 - Gminal core v2 should soon be availiable here on the main repo :3
+- Gminal core v1 works only in offline mode.
 - gminal core v1 is no longer maintained
 - gminal core v1 package installer has degraded functionality (practiacally useless :c)
 - gminal core v1 nss module has degraded functionality
